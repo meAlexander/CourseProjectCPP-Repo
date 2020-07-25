@@ -1,0 +1,8 @@
+Title: Matematika, Edition: 3, ISBN: 15, Release Date: 12.5.2015, Copies: 1500, Authorization: false, Price in Leva: 14.5
+Title: Himiq, Edition: 1, ISBN: 17, Release Date: 7.11.2017, Copies: 600, Authorization: true, Authorization Date: 17.6.2006, Price in Leva: 21.2
+Title: Biologiq, Edition: 11, ISBN: 29, Release Date: 26.8.2017, Copies: 250, Authorization: true, Authorization Date: 11.11.2010, Price in Leva: 16
+Title: Istoriq, Edition: 16, ISBN: 19, Release Date: 12.3.2019, Copies: 100, Authorization: false, Price in Leva: 18.45
+Title: Psihologiq, Edition: 68, ISBN: 39, Release Date: 31.12.2020, Copies: 559, Authorization: false, Price in Leva: 21.15
+Title: Fizika, Edition: 99, ISBN: 81, Release Date: 15.6.2018, Copies: 1200, Authorization: true, Authorization Date: 22.3.2015, Price in Leva: 18.99
+Title: Filosofiq, Edition: 44, ISBN: 60, Release Date: 22.5.2019, Copies: 1000, Authorization: false, Price in Leva: 17.69
+Title: Geografiq, Edition: 19, ISBN: 156, Release Date: 15.4.2015, Copies: 650, Authorization: true, Authorization Date: 25.6.2014, Price in Leva: 15.68

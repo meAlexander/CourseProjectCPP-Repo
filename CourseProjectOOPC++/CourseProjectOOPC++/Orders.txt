@@ -1,0 +1,20 @@
+Order: 
+Distributor: Siela, Address: Varna, Phone number: 0884568975
+Book: Title: Biologiq, Edition: 11, ISBN: 29, Release Date: 26.8.2017, Copies: 250, Authorization: true, Authorization Date: 11.11.2010, Price in Leva: 16
+Book: Title: Himiq, Edition: 1, ISBN: 17, Release Date: 7.11.2017, Copies: 600, Authorization: true, Authorization Date: 17.6.2006, Price in Leva: 21.2
+Final price of Order: 37.2
+Order: 
+Distributor: Siela, Address: Varna, Phone number: 0884568975
+Book: Title: Istoriq, Edition: 16, ISBN: 17, Release Date: 12.3.2019, Copies: 100, Authorization: false, Price in Leva: 18.45
+Book: Title: Himiq, Edition: 1, ISBN: 17, Release Date: 7.11.2017, Copies: 600, Authorization: true, Authorization Date: 17.6.2006, Price in Leva: 21.2
+Final price of Order: 39.65
+Order: 
+Distributor: Helikon, Address: Sofiq, Phone number: 0894562544
+Book: no Book selected
+Order: 
+Distributor: no Distributor selected.
+Book: no Book selected
+Order: 
+Distributor: Helikon, Address: Sofiq, Phone number: 0894562544
+Book: Title: Istoriq, Edition: 16, ISBN: 19, Release Date: 12.3.2019, Copies: 100, Authorization: false, Price in Leva: 18.45
+Final price of Order: 18.45
